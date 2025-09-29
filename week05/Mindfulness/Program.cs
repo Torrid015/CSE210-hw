@@ -27,6 +27,7 @@ class Program
             else if (choice == 3)
                 new ReflectingActivity().Run();
         }
+        
         Console.WriteLine("\nThanks for practicing mindfulness today!");
     }
 }
